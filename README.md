@@ -21,5 +21,7 @@ Watch [Learn C# Design Patterns Step by Step in 8 hours.](https://www.youtube.co
 ## Just for fun
 [Silicon Valley](https://www.hbo.com/silicon-valley)
 
+## Git
 
+### how to .gitignore
 
