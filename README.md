@@ -13,6 +13,9 @@ Watch [C# Design Patterns - step by step - made easy for Beginners.](https://www
 
 Watch [Learn C# Design Patterns Step by Step in 8 hours.](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
 
+[20+ basic Algorithms Problems from Coding Interviews](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76)
+
+
 ## Resources
 
 [CodeAcademy](https://www.codecademy.com/)
